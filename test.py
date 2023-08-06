@@ -1,4 +1,7 @@
 import re
+import numpy as np
+import pandas as pd
+
 
 text = "112.7619 Nm @ 4000 rpm"
 
